@@ -1,0 +1,6 @@
+image:
+{
+  [bootloader]/packages/LabSoC/builds/zybo/fsbl.elf
+  vv/top.runs/impl_1/top_wrapper.bit
+  /packages/LabSoC/builds/zybo/u-boot.elf
+}
